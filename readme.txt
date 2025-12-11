@@ -1,3 +1,6 @@
+This Code is for the paper titled 'Selective vulnerability of cerebral vasculature to NOTCH3 variants in small vessel disease and rescue by phosphodiesterase-5 inhibito'. It is permanently open and free to read/download for the entire research community (no access code is needed).
+
+
 1.Modify the directory in the BlueAreaCenter2dis_2.py file.
 
 image = cv2.imread("./R153C/R153C_SNAP(Treatment 2)/0" + str(p) + "_R153C_SNAP.png")                      
