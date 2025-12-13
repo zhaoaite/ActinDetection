@@ -1,4 +1,4 @@
-This Code is for the paper titled 'Selective vulnerability of cerebral vasculature to NOTCH3 variants in small vessel disease and rescue by phosphodiesterase-5 inhibito'. It is permanently open and free to read/download for the entire research community (no access code is needed).
+This Code is for the paper titled 'Selective vulnerability of cerebral vasculature to NOTCH3 variants in small vessel disease and rescue by phosphodiesterase-5 inhibitor'. It is permanently open and free to read/download for the entire research community (no access code is needed).
 
 
 1.Modify the directory in the BlueAreaCenter2dis_2.py file.
